@@ -1,0 +1,76 @@
+﻿  aes256ctr.c
+  fips202.c
+D:\C_ProgramFile\Dillithium_cy\src\fips202.c(462,13): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+D:\C_ProgramFile\Dillithium_cy\src\fips202.c(482,21): warning C4554: “>>”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+D:\C_ProgramFile\Dillithium_cy\src\fips202.c(525,16): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\C_ProgramFile\Dillithium_cy\src\fips202.c(606,35): warning C4028: 形参 1 与声明不同
+D:\C_ProgramFile\Dillithium_cy\src\fips202.c(627,76): warning C4028: 形参 3 与声明不同
+  main.c
+D:\C_ProgramFile\Dillithium_cy\src\main.c(21,11): warning C4013: “rand_byte”未定义；假设外部返回 int
+D:\C_ProgramFile\Dillithium_cy\src\main.c(13,15): warning C4101: “smlen”: 未引用的局部变量
+D:\C_ProgramFile\Dillithium_cy\src\main.c(13,9): warning C4101: “mlen”: 未引用的局部变量
+D:\C_ProgramFile\Dillithium_cy\src\main.c(14,9): warning C4101: “b”: 未引用的局部变量
+D:\C_ProgramFile\Dillithium_cy\src\main.c(11,12): warning C4101: “j”: 未引用的局部变量
+D:\C_ProgramFile\Dillithium_cy\src\main.c(11,9): warning C4101: “i”: 未引用的局部变量
+  ntt.c
+  packing.c
+D:\C_ProgramFile\Dillithium_cy\src\packing.c(98,46): warning C4554: “<<”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+D:\C_ProgramFile\Dillithium_cy\src\packing.c(99,46): warning C4554: “<<”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+D:\C_ProgramFile\Dillithium_cy\src\packing.c(100,46): warning C4554: “<<”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+D:\C_ProgramFile\Dillithium_cy\src\packing.c(101,46): warning C4554: “<<”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+D:\C_ProgramFile\Dillithium_cy\src\packing.c(102,46): warning C4554: “<<”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+D:\C_ProgramFile\Dillithium_cy\src\packing.c(103,46): warning C4554: “<<”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+D:\C_ProgramFile\Dillithium_cy\src\packing.c(104,46): warning C4554: “<<”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+D:\C_ProgramFile\Dillithium_cy\src\packing.c(105,46): warning C4554: “<<”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+D:\C_ProgramFile\Dillithium_cy\src\packing.c(152,57): warning C4554: “<<”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+D:\C_ProgramFile\Dillithium_cy\src\packing.c(153,57): warning C4554: “<<”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+D:\C_ProgramFile\Dillithium_cy\src\packing.c(154,57): warning C4554: “<<”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+D:\C_ProgramFile\Dillithium_cy\src\packing.c(155,57): warning C4554: “<<”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+D:\C_ProgramFile\Dillithium_cy\src\packing.c(156,57): warning C4554: “<<”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+D:\C_ProgramFile\Dillithium_cy\src\packing.c(157,57): warning C4554: “<<”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+D:\C_ProgramFile\Dillithium_cy\src\packing.c(158,57): warning C4554: “<<”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+D:\C_ProgramFile\Dillithium_cy\src\packing.c(159,57): warning C4554: “<<”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+D:\C_ProgramFile\Dillithium_cy\src\packing.c(313,54): warning C4090: “函数”: 不同的“const”限定符
+D:\C_ProgramFile\Dillithium_cy\src\packing.c(405,52): warning C4090: “函数”: 不同的“const”限定符
+D:\C_ProgramFile\Dillithium_cy\src\packing.c(411,52): warning C4090: “函数”: 不同的“const”限定符
+D:\C_ProgramFile\Dillithium_cy\src\packing.c(417,54): warning C4090: “函数”: 不同的“const”限定符
+D:\C_ProgramFile\Dillithium_cy\src\packing.c(442,50): warning C4090: “函数”: 不同的“const”限定符
+D:\C_ProgramFile\Dillithium_cy\src\packing.c(483,52): warning C4090: “函数”: 不同的“const”限定符
+  poly.c
+D:\C_ProgramFile\Dillithium_cy\src\poly.c(304,44): warning C4133: “函数”: 从“keccak_state *”到“shake128ctx *”的类型不兼容
+D:\C_ProgramFile\Dillithium_cy\src\poly.c(314,41): warning C4133: “函数”: 从“keccak_state *”到“shake128ctx *”的类型不兼容
+D:\C_ProgramFile\Dillithium_cy\src\poly.c(338,48): warning C4133: “函数”: 从“keccak_state *”到“shake128ctx *”的类型不兼容
+D:\C_ProgramFile\Dillithium_cy\src\poly.c(344,35): warning C4133: “函数”: 从“keccak_state *”到“shake128ctx *”的类型不兼容
+D:\C_ProgramFile\Dillithium_cy\src\poly.c(405,32): warning C4047: “函数”:“const uint8_t *”与“uint8_t **”的间接级别不同
+D:\C_ProgramFile\Dillithium_cy\src\poly.c(405,30): warning C4024: “shake256_inc_absorb”: 形参和实参 2 的类型不同
+  polyvct.c
+D:\C_ProgramFile\Dillithium_cy\src\polyvct.c(110,23): warning C4133: “函数”: 从“poly *”到“polyvctl *”的类型不兼容
+D:\C_ProgramFile\Dillithium_cy\src\polyvct.c(328,23): warning C4133: “函数”: 从“poly *”到“polyvctk *”的类型不兼容
+D:\C_ProgramFile\Dillithium_cy\src\polyvct.c(531,38): warning C4133: “函数”: 从“poly *”到“polyvctl *”的类型不兼容
+D:\C_ProgramFile\Dillithium_cy\src\polyvct.c(531,53): warning C4090: “函数”: 不同的“const”限定符
+  randbyte.c
+D:\C_ProgramFile\Dillithium_cy\src\randbyte.c(22,30): warning C4267: “函数”: 从“size_t”转换到“DWORD”，可能丢失数据
+  rdc.c
+D:\C_ProgramFile\Dillithium_cy\src\rdc.c(26,10): warning C4244: “return”: 从“sdi_t”转换到“ssi_t”，可能丢失数据
+  rej_uniform.c
+  rounding.c
+  sign.c
+D:\C_ProgramFile\Dillithium_cy\src\sign.c(36,14): warning C4013: “poly_ExpandA”未定义；假设外部返回 int
+D:\C_ProgramFile\Dillithium_cy\src\sign.c(114,17): warning C4133: “函数”: 从“polyvctl *”到“polyvctk *”的类型不兼容
+D:\C_ProgramFile\Dillithium_cy\src\sign.c(122,25): warning C4133: “函数”: 从“polyvctk *”到“poly *”的类型不兼容
+D:\C_ProgramFile\Dillithium_cy\src\sign.c(130,28): warning C4047: “函数”:“uint8_t **”与“uint8_t *”的间接级别不同
+D:\C_ProgramFile\Dillithium_cy\src\sign.c(130,25): warning C4024: “poly_SampleInBall”: 形参和实参 2 的类型不同
+D:\C_ProgramFile\Dillithium_cy\src\sign.c(134,29): warning C4133: “函数”: 从“poly *”到“polyvctl *”的类型不兼容
+D:\C_ProgramFile\Dillithium_cy\src\sign.c(142,29): warning C4133: “函数”: 从“poly *”到“polyvctk *”的类型不兼容
+D:\C_ProgramFile\Dillithium_cy\src\sign.c(152,29): warning C4133: “函数”: 从“poly *”到“polyvctk *”的类型不兼容
+D:\C_ProgramFile\Dillithium_cy\src\sign.c(78,19): warning C4101: “t1”: 未引用的局部变量
+D:\C_ProgramFile\Dillithium_cy\src\sign.c(191,24): warning C4047: “!=”:“size_t *”与“int”的间接级别不同
+D:\C_ProgramFile\Dillithium_cy\src\sign.c(213,26): warning C4047: “函数”:“uint8_t **”与“uint8_t [32]”的间接级别不同
+D:\C_ProgramFile\Dillithium_cy\src\sign.c(213,25): warning C4024: “poly_SampleInBall”: 形参和实参 2 的类型不同
+D:\C_ProgramFile\Dillithium_cy\src\sign.c(222,35): warning C4133: “函数”: 从“poly *”到“polyvctk *”的类型不兼容
+D:\C_ProgramFile\Dillithium_cy\src\sign.c(229,25): warning C4133: “函数”: 从“polyvctk *”到“poly *”的类型不兼容
+  sym_shake.c
+  正在生成代码...
+D:\C_ProgramFile\Dillithium_cy\src\polyvct.c(386): warning C4716: “polyvctk_usehint”: 必须返回一个值
+D:\C_ProgramFile\Dillithium_cy\src\polyvct.c(441): warning C4716: “polyvctk_makehint”: 必须返回一个值
+  Dillithium_cy.vcxproj -> D:\C_ProgramFile\Dillithium_cy\x64\Debug\Dilithium_cy.exe

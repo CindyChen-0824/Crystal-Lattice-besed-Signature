@@ -1,0 +1,54 @@
+﻿  aes256ctr.c
+c1 : fatal error C1083: 无法打开源文件: “..\Lattice\Dilithium_ref\ref\aes256ctr.c”: No such file or directory
+  fips202.c
+F:\Crypto_Program_cy\Dillithium_cy\src\fips202.c(46): warning C4244: “=”: 从“uint64_t”转换到“uint8_t”，可能丢失数据
+  main.c
+F:\Crypto_Program_cy\Dillithium_cy\src\main.c(25): warning C4013: “rand_byte”未定义；假设外部返回 int
+F:\Crypto_Program_cy\Dillithium_cy\src\main.c(18): warning C4101: “m2”: 未引用的局部变量
+F:\Crypto_Program_cy\Dillithium_cy\src\main.c(16): warning C4101: “b”: 未引用的局部变量
+  ntt.c
+  packing.c
+F:\Crypto_Program_cy\Dillithium_cy\src\packing.c(328): warning C4090: “函数”: 不同的“const”限定符
+F:\Crypto_Program_cy\Dillithium_cy\src\packing.c(420): warning C4090: “函数”: 不同的“const”限定符
+F:\Crypto_Program_cy\Dillithium_cy\src\packing.c(426): warning C4090: “函数”: 不同的“const”限定符
+F:\Crypto_Program_cy\Dillithium_cy\src\packing.c(432): warning C4090: “函数”: 不同的“const”限定符
+F:\Crypto_Program_cy\Dillithium_cy\src\packing.c(457): warning C4090: “函数”: 不同的“const”限定符
+F:\Crypto_Program_cy\Dillithium_cy\src\packing.c(499): warning C4090: “函数”: 不同的“const”限定符
+  poly.c
+F:\Crypto_Program_cy\Dillithium_cy\src\poly.c(269): warning C4101: “k”: 未引用的局部变量
+F:\Crypto_Program_cy\Dillithium_cy\src\poly.c(399): warning C4028: 形参 2 与声明不同
+  polyvct.c
+F:\Crypto_Program_cy\Dillithium_cy\src\polyvct.c(328): warning C4133: “函数”: 从“poly *”到“polyvctk *”的类型不兼容
+F:\Crypto_Program_cy\Dillithium_cy\src\polyvct.c(532): warning C4090: “函数”: 不同的“const”限定符
+  randbyte.c
+  rdc.c
+  rej_uniform.c
+  rounding.c
+F:\Crypto_Program_cy\Dillithium_cy\src\rounding.c(63): warning C4028: 形参 1 与声明不同
+F:\Crypto_Program_cy\Dillithium_cy\src\rounding.c(63): warning C4028: 形参 2 与声明不同
+F:\Crypto_Program_cy\Dillithium_cy\src\rounding.c(63): warning C4028: 形参 3 与声明不同
+F:\Crypto_Program_cy\Dillithium_cy\src\rounding.c(64): warning C4047: “函数”:“ssi_t *”与“ssi_t **”的间接级别不同
+F:\Crypto_Program_cy\Dillithium_cy\src\rounding.c(64): warning C4024: “decompose”: 形参和实参 1 的类型不同
+F:\Crypto_Program_cy\Dillithium_cy\src\rounding.c(64): warning C4047: “函数”:“ssi_t”与“ssi_t **”的间接级别不同
+F:\Crypto_Program_cy\Dillithium_cy\src\rounding.c(64): warning C4024: “decompose”: 形参和实参 2 的类型不同
+F:\Crypto_Program_cy\Dillithium_cy\src\rounding.c(64): warning C4024: “decompose”: 形参和实参 3 的类型不同
+F:\Crypto_Program_cy\Dillithium_cy\src\rounding.c(65): warning C4047: “return”:“ssi_t”与“ssi_t *”的间接级别不同
+F:\Crypto_Program_cy\Dillithium_cy\src\rounding.c(76): warning C4028: 形参 1 与声明不同
+F:\Crypto_Program_cy\Dillithium_cy\src\rounding.c(76): warning C4028: 形参 2 与声明不同
+F:\Crypto_Program_cy\Dillithium_cy\src\rounding.c(76): warning C4028: 形参 3 与声明不同
+F:\Crypto_Program_cy\Dillithium_cy\src\rounding.c(77): warning C4047: “函数”:“ssi_t *”与“ssi_t **”的间接级别不同
+F:\Crypto_Program_cy\Dillithium_cy\src\rounding.c(77): warning C4024: “decompose”: 形参和实参 1 的类型不同
+F:\Crypto_Program_cy\Dillithium_cy\src\rounding.c(77): warning C4047: “函数”:“ssi_t”与“ssi_t **”的间接级别不同
+F:\Crypto_Program_cy\Dillithium_cy\src\rounding.c(77): warning C4024: “decompose”: 形参和实参 2 的类型不同
+F:\Crypto_Program_cy\Dillithium_cy\src\rounding.c(77): warning C4024: “decompose”: 形参和实参 3 的类型不同
+F:\Crypto_Program_cy\Dillithium_cy\src\rounding.c(78): warning C4047: “return”:“ssi_t”与“ssi_t *”的间接级别不同
+  sign.c
+F:\Crypto_Program_cy\Dillithium_cy\src\sign.c(36): warning C4013: “poly_ExpandA”未定义；假设外部返回 int
+F:\Crypto_Program_cy\Dillithium_cy\src\sign.c(116): warning C4133: “函数”: 从“polyvctl *”到“polyvctk *”的类型不兼容
+F:\Crypto_Program_cy\Dillithium_cy\src\sign.c(132): warning C4047: “函数”:“uint8_t **”与“uint8_t *”的间接级别不同
+F:\Crypto_Program_cy\Dillithium_cy\src\sign.c(132): warning C4024: “poly_SampleInBall”: 形参和实参 2 的类型不同
+F:\Crypto_Program_cy\Dillithium_cy\src\sign.c(79): warning C4101: “r1”: 未引用的局部变量
+F:\Crypto_Program_cy\Dillithium_cy\src\sign.c(79): warning C4101: “t1”: 未引用的局部变量
+F:\Crypto_Program_cy\Dillithium_cy\src\sign.c(215): warning C4047: “函数”:“uint8_t **”与“uint8_t [32]”的间接级别不同
+F:\Crypto_Program_cy\Dillithium_cy\src\sign.c(215): warning C4024: “poly_SampleInBall”: 形参和实参 2 的类型不同
+  sym_shake.c
